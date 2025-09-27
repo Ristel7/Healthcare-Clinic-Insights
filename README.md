@@ -1,5 +1,7 @@
 🏥 Clinic Healthcare Analytics Power BI Dashboard
+
 Overview
+
 This repository contains a comprehensive healthcare dataset and interactive Power BI dashboards designed to provide insights into clinic operations, patient demographics, financial metrics, diagnostic outcomes, and physician performance. The project demonstrates practical healthcare analytics using Power BI visualizations to drive data-driven decisions and optimize management.
 
 Repository Contents
